@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[FutureStories]]></title>
         <description><![CDATA[FutureStories]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/futurestories/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 07:41:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 07:45:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/futurestories/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[One of the most interactive movie campaigns ever hatched by Hollywood.”]]></title>
+            <description><![CDATA[<article><h1>One of the most interactive movie campaigns ever hatched by Hollywood.”</h1><p>http://www.42entertainment.com/work/whysoserious</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/efd20090-46ca-4a5f-904d-84a4ec8134a3.JPG"></article>]]></description>
+            <link>https://thegrid.ai/futurestories/bea12a61-ba09-41f1-bb87-2022206acf52/index.html</link>
+            <guid isPermaLink="false">bea12a61-ba09-41f1-bb87-2022206acf52</guid>
+            <pubDate>Wed, 24 Feb 2016 07:44:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“An immersive, endlessly intricate hybrid of scavenger hunts and role-playing adventures.”]]></title>
-            <description><![CDATA[<article><h1>“An immersive, endlessly intricate hybrid of scavenger hunts and role-playing adventures.”</h1><p>http://www.42entertainment.com/work/ilovebees</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6d3451cb-bc02-4bab-aaa4-6deb10f80259.JPG"></article>]]></description>
-            <link>undefined41efe8e0-b3cc-4797-a513-bbe6ddf2d6bf/index.html</link>
+            <description><![CDATA[<article><h1>“An immersive, endlessly intricate hybrid of scavenger hunts and role-playing adventures.”</h1><p>http://www.42entertainment.com/work/ilovebees</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e3b8adf53a06a41dd7f5f4d367c19c562cec00bd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/futurestories/41efe8e0-b3cc-4797-a513-bbe6ddf2d6bf/index.html</link>
             <guid isPermaLink="false">41efe8e0-b3cc-4797-a513-bbe6ddf2d6bf</guid>
             <pubDate>Wed, 24 Feb 2016 07:40:51 GMT</pubDate>
         </item>
